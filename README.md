@@ -17,8 +17,10 @@ Project is created with:
 * CSS3
 	
 ## Setup
-To be improved, not finished yet.
-Feel free to get inspired if you want it.
+In process
+
+## Github Pages
+			https://beatricecharrier.github.io/OpClSite/
 
 ## Author
-Bee for Beatrice Charrier @2020
+Beatrice Charrier @2020
